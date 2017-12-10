@@ -1,0 +1,21 @@
+{
+  "name": "riskassessment",
+  "version": "1.0.0",
+  "description": "for hackathon hdfclife",
+  "start": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bower install"
+  },
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth-connect": "^1.0.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "fbgraph": "^1.4.1"
+  }
+}

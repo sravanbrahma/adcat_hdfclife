@@ -1,0 +1,17 @@
+{Customer:{
+	fName:"",
+	lName:"",
+	phone:"",
+	email:"",
+	city:"",
+	dob:"",
+	gender:"",
+	designation:"",
+	industry:"",
+	events:{
+		lifeEvents:{[
+		]},
+		purchases:{[
+		]}
+	}
+}}

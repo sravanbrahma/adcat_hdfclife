@@ -1,0 +1,44 @@
+[
+{
+"planname":"HDFC Life Super Income Plan",
+"premium":"",
+"keywords":["retirement", ""],
+"for_riskscore": 2
+},
+{
+"planname":"HDFC Life ClassicAssure Plus",
+"premium":"",
+"keywords":["health"],
+"for_riskscore": 3
+},
+{
+"planname":"HDFC Life Sampoorn Samridhi Plus Plan",
+"premium":"",
+"keywords":["retirement","dependents"],
+"for_riskscore": 1
+},
+{
+"planname":"HDFC SL Progrowth Flexi",
+"premium":"",
+"keywords":["savings"],
+"for_riskscore": 2
+},
+{
+"planname":"HDFC Life Smart Woman Plan",
+"premium":"",
+"keywords":[],
+"for_riskscore": 4
+},
+{
+"planname":"BSLI Income Assured Plan",
+"premium":"",
+"keywords":[],
+"for_riskscore": 5
+},
+{
+"planname":"Tata AIA Life Insurance Fortune Maxima Travel",
+"premium":"",
+"keywords":["travel"],
+"for_riskscore": 6
+}
+]
